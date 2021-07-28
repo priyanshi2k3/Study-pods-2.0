@@ -23,7 +23,7 @@
                    <tr>
                        <td>1</td>
                        <td>26/07/2021</td>
-                       <td><form.html</td>
+                       <td>form.html</td>
                        <td>html basics,<br>form making</td>
                        <td>NO</td>
                        <td></td>
@@ -31,7 +31,7 @@
                    <tr>
                        <td>2</td>
                        <td>27/07/2021</td>
-                       <td><report.html</td>
+                       <td>report.html</td>
                        <td><br>box model(margin,padding,<br>border,box size)</td>
                        <td>NO</td>
                        <td></td>

@@ -1,10 +1,10 @@
 # Studypod2.0
 <body>
      <div>
-    <p><b>Name : </b><i>Priyanshi dubay</i></p>
-    <p><b>Branch : </b><i>IT</i></p>
+    <p><b>Name : </b><i>Priyanshi dubey</i></p>
+    <p><b>Branch : </b><i>Chemical</i></p>
     <p><b>Year : </b><i>1st</i></p>
-    <p><b>SP No. : </b><i>SP0201</i></p>
+    <p><b>SP No. : </b><i>SP0205</i></p>
     <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
 </div>
     <div>

@@ -23,7 +23,7 @@
                    <tr>
                        <td>1</td>
                        <td>26/07/2021</td>
-                       <td><form.html</form></td>
+                       <td>form.html</form></td>
                        <td>html basics,<br>form making</td>
                        <td>NO</td>
                        <td></td>
@@ -31,7 +31,7 @@
                    <tr>
                        <td>2</td>
                        <td>27/07/2021</td>
-                       <td><report.html</image></td>
+                       <td>report.html</image></td>
                        <td><br>box model(margin,padding,<br>box size)</td>
                        <td>NO</td>
                        <td></td>
@@ -39,7 +39,7 @@
                    <tr>
                        <td>3</td>
                        <td>28/07/2021</td>
-                       <td><calculator.html</td>
+                       <td>calculator.html</td>
                        <td><br>calculator making</td>
                        <td>NO</td>
                        <td></td>
@@ -47,7 +47,7 @@
                    <tr>
                     <td>4</td>
                     <td>29/07/2021</td>
-                    <td><timetable.html</image></td>
+                    <td>timetable.html</image></td>
                     <td><br>table making<br>border,cellpadding</td>
                     <td>NO</td>
                     <td></td>

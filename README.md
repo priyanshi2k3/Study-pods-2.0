@@ -154,7 +154,7 @@
                     <td></td>
                     <td>tried to improve html code for weatherapp</td>
                     <td>found some diffeculty in API link for this</td>
-                    <td>i used anouther API to fix the problem</td>
+                    <td>i used another API to fix the problem</td>
                 </tr>
                 <tr>
                     <td>18</td>

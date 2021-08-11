@@ -108,6 +108,94 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
+                       <tr>
+                    <td>12</td>
+                    <td>31/07/2021</td>
+                    <td></td>
+                    <td>NO</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>01/08/2021</td>
+                    <td></td>
+                    <td>css colours ,backgrounds</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>02/08/2021</td>
+                    <td></td>
+                    <td>css display and box model</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>03/08/2021</td>
+                    <td></td>
+                    <td>worked on first project weatherapp</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>04/08/2021</td>
+                    <td></td>
+                    <td>html for weatherapp</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>05/08/2021</td>
+                    <td></td>
+                    <td>tried to improve html code for weatherapp</td>
+                    <td>found some diffeculty in API link for this</td>
+                    <td>i used anouther API to fix the problem</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>06/08/2021</td>
+                    <td></td>
+                    <td>tried to write css code for weatherapp</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>07/08/2021</td>
+                    <td></td>
+                    <td>worked on weather app</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>08/08/2021</td>
+                    <td></td>
+                    <td>tried to write code in java script for running project</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>09/08/2021</td>
+                    <td></td>
+                    <td>weather app project completed</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>22</td>
+                    <td>10/08/2021</td>
+                    <td></td>
+                    <td>completed css </td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
 
                </tbody>
            </table>

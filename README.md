@@ -23,7 +23,7 @@
                 <tr>
                     <td>1</td>
                     <td>21/07/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td><br></td>
                     <td>NO</td>
                     <td></td>
@@ -31,7 +31,7 @@
                 <tr>
                     <td>2</td>
                     <td>22/07/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td><br></td>
                     <td>NO</td>
                     <td></td>
@@ -196,7 +196,22 @@
                     <td>NO</td>
                     <td></td>
                 </tr>
-
+                <tr>
+                    <td>23</td>
+                    <td>11/08/2021</td>
+                    <td></td>
+                    <td>NO</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>12/08/2021</td>
+                    <td></td>
+                    <td>music app</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
                </tbody>
            </table>
        </div>

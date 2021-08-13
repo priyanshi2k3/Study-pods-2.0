@@ -24,7 +24,7 @@
                     <td>1</td>
                     <td>21/07/2021</td>
                     <td>NO</td>
-                    <td><br></td>
+                    <td>NO</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
@@ -32,30 +32,30 @@
                     <td>2</td>
                     <td>22/07/2021</td>
                     <td>NO</td>
-                    <td><br></td>
+                    <td>NO</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>3</td>
                     <td>23/07/2021</td>
-                    <td></td>
-                    <td><br></td>
+                    <td>NO</td>
+                    <td>NO</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>4</td>
                     <td>24/07/2021</td>
-                    <td></td>
-                    <td><br></td>
+                    <td>NO</td>
+                    <td>NO</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>5</td>
                     <td>24/07/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>web development introduction</td>
                     <td>NO</td>
                     <td></td>
@@ -63,7 +63,7 @@
                 <tr>
                     <td>6</td>
                     <td>25/07/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>html introduction</td>
                     <td>NO</td>
                     <td></td>
@@ -103,7 +103,7 @@
                 <tr>
                     <td>11</td>
                     <td>30/07/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>css introduction</td>
                     <td>NO</td>
                     <td></td>
@@ -111,7 +111,7 @@
                        <tr>
                     <td>12</td>
                     <td>31/07/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>NO</td>
                     <td>NO</td>
                     <td></td>
@@ -119,7 +119,7 @@
                 <tr>
                     <td>13</td>
                     <td>01/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>css colours ,backgrounds</td>
                     <td>NO</td>
                     <td></td>
@@ -127,7 +127,7 @@
                 <tr>
                     <td>14</td>
                     <td>02/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>css display and box model</td>
                     <td>NO</td>
                     <td></td>
@@ -135,7 +135,7 @@
                 <tr>
                     <td>15</td>
                     <td>03/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>worked on first project weatherapp</td>
                     <td>NO</td>
                     <td></td>
@@ -143,7 +143,7 @@
                 <tr>
                     <td>16</td>
                     <td>04/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>html for weatherapp</td>
                     <td>NO</td>
                     <td></td>
@@ -151,7 +151,7 @@
                 <tr>
                     <td>17</td>
                     <td>05/08/2021</td>
-                    <td></td>
+                    <td>weather.html</td>
                     <td>tried to improve html code for weatherapp</td>
                     <td>found some diffeculty in API link for this</td>
                     <td>i used another API to fix the problem</td>
@@ -159,7 +159,7 @@
                 <tr>
                     <td>18</td>
                     <td>06/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>tried to write css code for weatherapp</td>
                     <td>NO</td>
                     <td></td>
@@ -167,7 +167,7 @@
                 <tr>
                     <td>19</td>
                     <td>07/08/2021</td>
-                    <td></td>
+                    <td>style.css</td>
                     <td>worked on weather app</td>
                     <td>NO</td>
                     <td></td>
@@ -175,7 +175,7 @@
                 <tr>
                     <td>20</td>
                     <td>08/08/2021</td>
-                    <td></td>
+                    <td>main.js</td>
                     <td>tried to write code in java script for running project</td>
                     <td>NO</td>
                     <td></td>
@@ -191,7 +191,7 @@
                 <tr>
                     <td>22</td>
                     <td>10/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>completed css </td>
                     <td>NO</td>
                     <td></td>
@@ -199,7 +199,7 @@
                 <tr>
                     <td>23</td>
                     <td>11/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>NO</td>
                     <td>NO</td>
                     <td></td>
@@ -207,7 +207,7 @@
                 <tr>
                     <td>24</td>
                     <td>12/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>music app</td>
                     <td>NO</td>
                     <td></td>
@@ -215,7 +215,7 @@
                   <tr>
                     <td>25</td>
                     <td>13/08/2021</td>
-                    <td></td>
+                    <td>NO</td>
                     <td>music app</td>
                     <td>NO</td>
                     <td></td>
